@@ -1,0 +1,7 @@
+__pycache__/
+data/
+report.html
+models/tinyphysics_*.onnx
+*.swp
+logdir/
+.venv/
